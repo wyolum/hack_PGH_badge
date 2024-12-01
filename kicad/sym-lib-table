@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Library_hack_badge")(type "KiCad")(uri "${KIPRJMOD}/Library_hack_badge.kicad_sym")(options "")(descr ""))
+)
