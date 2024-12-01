@@ -1,6 +1,6 @@
 # hack_PGH_badge
-Badge PCB kit for hackPGH, for "learn to solder" and "learn to lasercut" classes
-Can be used for basic soldering (through hole parts) or advanced soldering (surface mount parts)
+* Badge PCB kit for hackPGH, for "learn to solder" and "learn to lasercut" classes
+* Can be used for basic soldering (through hole parts) or advanced soldering (surface mount parts)
 
 ***FEATURES***
 1. Four LED's with series current limit resistors
@@ -11,17 +11,17 @@ Can be used for basic soldering (through hole parts) or advanced soldering (surf
 
 ***RENDERS***
 rev1 renders
-![hackPGH Badge](https://github.com/wyolum/hack_PGH_badge/blob/master/renders/hackPGH_badge_01.png)
+![hackPGH Badge](/renders/hackPGH_badge_01.png)
 
-![hackPGH Badge](https://github.com/wyolum/hack_PGH_badge/blob/master/renders/hackPGH_badge_02.png)
+![hackPGH Badge](/renders/hackPGH_badge_02.png)
 
-![hackPGH Badge](https://github.com/wyolum/hack_PGH_badge/blob/master/renders/hackPGH_badge_03.png)
+![hackPGH Badge](/renders/hackPGH_badge_03.png)
 
-![hackPGH Badge](https://github.com/wyolum/hack_PGH_badge/blob/master/renders/hackPGH_badge_04.png)
+![hackPGH Badge](/renders/hackPGH_badge_04.png)
 
-![hackPGH Badge](https://github.com/wyolum/hack_PGH_badge/blob/master/renders/hackPGH_badge_05.png)
+![hackPGH Badge](/renders/hackPGH_badge_05.png)
 
-![hackPGH Badge](https://github.com/wyolum/hack_PGH_badge/blob/master/renders/hackPGH_badge_06.png)
+![hackPGH Badge](/renders/hackPGH_badge_06.png)
 
 License
 -------
