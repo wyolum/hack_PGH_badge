@@ -6,10 +6,11 @@
 	(paper "A4")
 	(title_block
 		(title "hack_badge")
-		(date "2024-11-24")
+		(date "2024-12-02")
 		(rev "v1")
 		(company "hackPGH")
 		(comment 1 "Badge - learn to solder + learn to lasercut")
+		(comment 3 "Anool Mahidharia | Wyolum")
 	)
 	(lib_symbols
 		(symbol "Library_hack_badge:Battery_Cell"

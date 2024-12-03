@@ -1,0 +1,17 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+61.976,-76.2,-90.0,bottom,BT1,,,BatteryHolder_Keystone_3002_1x2032,3V,smt
+90.424,-76.2,90.0,bottom,BT2,,,BatteryHolder_Keystone_3002_1x2032,3V,smt
+60.198,-97.302,-90.0,bottom,C1,,,C_Disc_D3.0mm_W1.6mm_P2.50mm,100nF,tht
+92.202,-55.098,90.0,bottom,C2,,,C_Disc_D3.0mm_W1.6mm_P2.50mm,100nF,tht
+56.896,-93.472,0.0,bottom,D1,,,D_SOD-123_DO-34_SOD68_P7.62mm_Horizontal,D_Schottky,tht
+67.31,-93.472,0.0,top,D2,,,LED_D3.0mm_Dialight_598,LED,tht
+57.15,-58.928,180.0,top,D3,,,LED_D3.0mm_Dialight_598,LED,tht
+95.25,-58.928,180.0,bottom,D4,,,D_SOD-123_DO-34_SOD68_P7.62mm_Horizontal,D_Schottky,tht
+95.25,-93.472,0.0,top,D5,,,LED_D3.0mm_Dialight_598,LED,tht
+85.09,-58.928,180.0,top,D6,,,LED_D3.0mm_Dialight_598,LED,tht
+80.264,-93.472,180.0,bottom,R1,,,R_1206_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,2E2,tht
+68.58,-58.928,180.0,bottom,R2,,,R_1206_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,2E2,tht
+83.82,-93.472,0.0,bottom,R3,,,R_1206_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,2E2,tht
+72.136,-58.928,0.0,bottom,R4,,,R_1206_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,2E2,tht
+64.008,-98.552,0.0,bottom,U1,,TO-92-3L-3 Melexis,TO92127P410H430-3_TSOT-23,US1881EUA-AAA-000-BU,tht
+88.392,-53.848,180.0,bottom,U2,,TO-92-3L-3 Melexis,TO92127P410H430-3_TSOT-23,US1881EUA-AAA-000-BU,tht
